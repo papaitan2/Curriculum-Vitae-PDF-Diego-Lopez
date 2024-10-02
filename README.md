@@ -19,7 +19,7 @@ https://github.com/papaitan2/Curriculum-Vitae-PDF-Diego-Lopez/blob/main/CV_Diego
 <br>
 <br>
 
-<iframe src="https://github.com/papaitan2/Curriculum-Vitae-PDF-Diego-Lopez/blob/main/CV_Diego_Silanes_.pdf" width="100%" height="600px"></iframe>
+<embed src="https://github.com/papaitan2/Curriculum-Vitae-PDF-Diego-Lopez/blob/main/CV_Diego_Silanes_.pdf" type="application/pdf" width="100%" height="600px" />
 
 
 
