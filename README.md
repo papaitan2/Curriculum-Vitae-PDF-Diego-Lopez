@@ -19,8 +19,10 @@ https://github.com/papaitan2/Curriculum-Vitae-PDF-Diego-Lopez/blob/main/CV_Diego
 <br>
 <br>
 
-<embed src="https://github.com/papaitan2/Curriculum-Vitae-PDF-Diego-Lopez/blob/main/CV_Diego_Silanes_.pdf" type="application/pdf" width="100%" height="600px" />
-
+<object data="https://github.com/papaitan2/Curriculum-Vitae-PDF-Diego-Lopez/blob/main/CV_Diego_Silanes_.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Tu navegador no soporta PDFs. 
+     <a href="ruta/al/archivo.pdf">Descarga el PDF aquí</a>.</p>
+</object>
 
 
 
