@@ -5,3 +5,11 @@ My personal Curriculum Vitae
 <br>
 <br>
 https://github.com/papaitan2/Curriculum-Vitae-PDF-Diego-Lopez/blob/main/CV_Diego_Silanes_.pdf
+
+
+
+<br>
+<br>
+
+
+[CV_Diego_Silanes_.pdf](!https://github.com/papaitan2/Curriculum-Vitae-PDF-Diego-Lopez/blob/main/CV_Diego_Silanes_.pdf)
