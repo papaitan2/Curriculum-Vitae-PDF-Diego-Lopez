@@ -5,7 +5,7 @@ My personal Curriculum Vitae
 <br>
 <br>
 
-[CV_Diego_Silanes.pdf](https://github.com/user-attachments/files/17293835/CV_Diego_Silanes.pdf)
+[!CV_Diego_Silanes.pdf](https://github.com/user-attachments/files/17293835/CV_Diego_Silanes.pdf)
 
 
 
